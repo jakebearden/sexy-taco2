@@ -1,4 +1,3 @@
-# sexy-taco2
 #include <iostream>
 
 int main() {
